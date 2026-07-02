@@ -65,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
