@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
+| [0707-design-linked-list](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
