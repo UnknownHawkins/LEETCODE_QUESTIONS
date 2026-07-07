@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
