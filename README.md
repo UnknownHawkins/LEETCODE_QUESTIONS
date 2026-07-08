@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0238-product-of-array-except-self) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0344-reverse-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
 | ------- |
