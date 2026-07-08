@@ -137,5 +137,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0707-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
