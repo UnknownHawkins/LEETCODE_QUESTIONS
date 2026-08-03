@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0268-missing-number) |
+| [1406-stone-game-iii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3620-network-recovery-pathways) |
@@ -201,4 +204,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
