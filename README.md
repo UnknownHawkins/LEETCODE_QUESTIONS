@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0344-reverse-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/UnknownHawkins/LEETCODE_QUESTIONS/tree/master/3620-network-recovery-pathways) |
